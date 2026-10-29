@@ -1,6 +1,6 @@
 # Hi, I'm Rodrigo Fernandes 👋
 
-## Senior Project Manager | AI Automation | Systems Integration | Software Architecture
+## Senior Project Manager | AI Automation | Systems Integration
 
 I am a Senior Project Manager with 15+ years of experience leading complex projects, coordinating multidisciplinary teams, managing stakeholders, suppliers, risks, budgets and delivery timelines.
 
